@@ -1,6 +1,7 @@
 # BlockAdsForJapanese-Jailbroken
 
 プロキシを利用した、日本人向け Adblock (要脱獄)
+
 セルラー通信/Wi-Fi不問、VPNと併用可能
 
 ## 注意点
